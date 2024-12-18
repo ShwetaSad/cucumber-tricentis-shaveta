@@ -1,0 +1,622 @@
+2024-12-16 16:12:939 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 16:12:365 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 18:12:597 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:27 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 18:12:330 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:787 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:861 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:283 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:289 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:760 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:846 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:245 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:179 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:591 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 18:12:82 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:586 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:695 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:114 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:271 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:732 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:823 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:240 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:618 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:65 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:156 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:554 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:658 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 18:12:754 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:212 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:299 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:725 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:821 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 18:12:852 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 18:12:274 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 18:12:365 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 18:12:730 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 18:12:846 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 19:12:235 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:690 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:780 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:195 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:295 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 19:12:307 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:798 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:892 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:310 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:68 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:595 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:684 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:128 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:156 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:607 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:695 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:92 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:134 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:788 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:866 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:401 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:332 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:981 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:65 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:423 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:503 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:961 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:40 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:440 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:831 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:285 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:368 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:751 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:702 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:160 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:244 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:905 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:152 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:587 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:675 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:89 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:713 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:174 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:269 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:912 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:42 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:84 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:170 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:789 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:827 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 19:12:286 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:830 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:912 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:353 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:295 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:727 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:814 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:248 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:433 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:118 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:201 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:923 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:708 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:156 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:240 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:632 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:842 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:293 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:377 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:762 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:480 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:936 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:17 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:429 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:854 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:444 INFO  LoginPage :43 - Enter EmailId 'sethisgmail.com' to email field : 
+2024-12-16 19:12:539 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:607 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:430 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:824 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 19:12:246 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:704 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:790 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:196 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:670 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:136 INFO  LoginPage :43 - Enter EmailId 'sethisgmail.com' to email field : 
+2024-12-16 19:12:224 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:288 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:577 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:37 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:122 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:543 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:657 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 19:12:982 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:467 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:548 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:801 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:110 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:535 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:615 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:841 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:688 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:132 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:214 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:619 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:723 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:192 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:273 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:512 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:599 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 19:12:03 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:126 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:543 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:624 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:21 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:47 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:535 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:628 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:894 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:13 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 19:12:259 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:698 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:779 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:171 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:268 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 19:12:18 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:442 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 19:12:487 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:947 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:36 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:451 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:425 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:915 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:07 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 19:12:273 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:382 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 19:12:436 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 19:12:877 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 19:12:953 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 19:12:323 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 19:12:431 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-16 20:12:651 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 20:12:75 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 20:12:640 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:78 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 20:12:245 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:612 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 20:12:973 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 20:12:382 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 20:12:682 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:102 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 20:12:692 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:138 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 20:12:218 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:641 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 20:12:961 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:436 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 20:12:98 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 20:12:503 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 20:12:512 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:948 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 20:12:52 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 20:12:533 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:467 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:890 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:985 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:417 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 21:12:515 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:989 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:106 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:521 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:581 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:24 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 21:12:105 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:560 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:26 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:55 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:543 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 21:12:625 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 21:12:89 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 21:12:209 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:654 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 21:12:743 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 21:12:997 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 21:12:127 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 21:12:264 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:667 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 21:12:799 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 21:12:864 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 21:12:945 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 21:12:05 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 21:12:67 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 21:12:800 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:218 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:712 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:715 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:148 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 21:12:191 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:690 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:603 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 21:12:399 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:921 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 21:12:70 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:538 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 21:12:686 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:164 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 21:12:323 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:850 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 21:12:944 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 21:12:491 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 21:12:792 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 21:12:237 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 21:12:320 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 21:12:608 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 21:12:708 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 21:12:865 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 21:12:346 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 21:12:476 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 21:12:535 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 21:12:617 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 21:12:675 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 21:12:734 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 21:12:218 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 22:12:107 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 22:12:570 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 22:12:975 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:09 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:410 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 22:12:446 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:956 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 22:12:791 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 22:12:252 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 22:12:664 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:661 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:87 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 22:12:487 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:976 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 22:12:301 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 22:12:495 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 22:12:892 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:784 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:206 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 22:12:220 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:681 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 22:12:561 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 22:12:631 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 22:12:46 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 22:12:340 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:846 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 22:12:814 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 22:12:321 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:896 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:499 INFO  RegisterPage :35 - Get pageTitle text Computers
+2024-12-16 23:12:861 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:328 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:415 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:899 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:844 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:324 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:420 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:698 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:795 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:814 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:259 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:390 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:454 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:530 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:593 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:651 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:75 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:898 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:405 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:786 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-16 23:12:821 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:222 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-16 23:12:518 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:956 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:740 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:899 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:367 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:444 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:833 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:901 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:356 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:435 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:679 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:781 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:901 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:322 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:464 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:526 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:609 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:670 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:731 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:169 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:421 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:296 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:737 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:819 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:224 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:247 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:712 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:785 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:41 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:135 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:95 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:509 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:666 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:738 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:821 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:885 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:942 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:382 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:255 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:245 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:667 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:755 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:152 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:675 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:352 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:431 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:670 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:808 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:791 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:240 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:378 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:440 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:518 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:578 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:638 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:52 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:952 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:765 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:249 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-16 23:12:656 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-16 23:12:980 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:475 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:574 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:959 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:116 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:571 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:661 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:909 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:999 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:94 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:510 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:642 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:704 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:782 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:843 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:901 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:321 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-16 23:12:871 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-16 23:12:301 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-16 23:12:763 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-16 23:12:379 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:804 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:892 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-16 23:12:288 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:299 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-16 23:12:757 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-16 23:12:843 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-16 23:12:92 INFO  LoginPage :56 - Click on loginButton
+2024-12-16 23:12:204 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-16 23:12:292 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-16 23:12:721 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-16 23:12:853 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-16 23:12:916 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-16 23:12:998 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-16 23:12:59 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-16 23:12:118 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-16 23:12:548 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:347 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:722 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 00:12:932 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:354 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:440 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:823 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:840 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:305 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:390 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-17 00:12:638 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:738 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 00:12:168 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:746 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:830 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:230 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:339 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-17 00:12:974 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:401 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 00:12:449 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:927 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:285 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:675 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-17 00:12:802 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-17 00:12:864 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-17 00:12:945 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-17 00:12:08 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-17 00:12:79 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-17 00:12:494 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:188 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:401 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:893 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:400 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-17 00:12:661 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:159 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:599 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:796 INFO  BuildYourOwnComputerPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 00:12:897 INFO  BuildYourOwnComputerPage :64 - Select RAM '2 GB'
+2024-12-17 00:12:974 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:55 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:554 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:05 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:399 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:752 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:287 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:950 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:347 INFO  LoginPage :37 - Get welcomeText : Welcome, Please Sign In!
+2024-12-17 00:12:446 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:927 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:07 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:382 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:366 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:840 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:924 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-17 00:12:163 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:279 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 00:12:317 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:120 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:189 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:882 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:920 INFO  HomePage :67 - Click on logOutLink : Log out
+2024-12-17 00:12:555 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:48 INFO  RegisterPage :74 - Get registerText : Register
+2024-12-17 00:12:207 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:677 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:60 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:488 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-17 00:12:624 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-17 00:12:692 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-17 00:12:771 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-17 00:12:834 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-17 00:12:892 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-17 00:12:314 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:939 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:446 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:900 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-17 00:12:944 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:557 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:999 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:976 INFO  BuildYourOwnComputerPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 00:12:75 INFO  BuildYourOwnComputerPage :64 - Select RAM '2 GB'
+2024-12-17 00:12:143 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:307 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:548 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:940 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:399 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:841 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:628 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:114 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:688 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:491 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:950 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:32 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:412 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:459 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:899 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:972 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-17 00:12:212 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:305 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 00:12:551 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:38 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-17 00:12:159 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-17 00:12:221 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-17 00:12:302 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-17 00:12:363 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-17 00:12:422 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-17 00:12:850 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:278 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:802 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:373 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-17 00:12:799 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:332 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:904 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:560 INFO  BuildYourOwnComputerPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 00:12:660 INFO  BuildYourOwnComputerPage :64 - Select RAM '2 GB'
+2024-12-17 00:12:736 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:874 INFO  BuildYourOwnComputerPage :93 - Select Software 'Microsoft Office [+50.00]'
+2024-12-17 00:12:960 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:263 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:720 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:239 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:773 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:43 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:533 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:06 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:584 INFO  BuildYourOwnComputerPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 00:12:712 INFO  BuildYourOwnComputerPage :64 - Select RAM '8GB [+60.00]'
+2024-12-17 00:12:781 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:873 INFO  BuildYourOwnComputerPage :82 - Select HDD 'Ubuntu'
+2024-12-17 00:12:976 INFO  BuildYourOwnComputerPage :93 - Select Software 'Total Commander [+5.00]'
+2024-12-17 00:12:50 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:224 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:264 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:738 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:819 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:217 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:582 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:32 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:112 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-17 00:12:353 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:450 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 00:12:472 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:893 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-17 00:12:27 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-17 00:12:91 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-17 00:12:175 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-17 00:12:243 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-17 00:12:303 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-17 00:12:724 INFO  RegisterPage :124 - Click on 'REGISTER' button
+2024-12-17 00:12:819 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:311 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:809 INFO  RegisterPage :35 - Get pageTitle text Desktops
+2024-12-17 00:12:844 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:314 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:780 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:407 INFO  BuildYourOwnComputerPage :57 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-12-17 00:12:506 INFO  BuildYourOwnComputerPage :64 - Select RAM '2 GB'
+2024-12-17 00:12:576 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:710 INFO  BuildYourOwnComputerPage :93 - Select Software 'Microsoft Office [+50.00]'
+2024-12-17 00:12:788 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:26 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:511 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:138 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:680 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:264 INFO  BuildYourOwnComputerPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 00:12:394 INFO  BuildYourOwnComputerPage :64 - Select RAM '4GB [+20.00]'
+2024-12-17 00:12:476 INFO  BuildYourOwnComputerPage :71 - Select HDD '400 GB [+100.00]'
+2024-12-17 00:12:591 INFO  BuildYourOwnComputerPage :82 - Select HDD 'Windows 10 [+60.00]'
+2024-12-17 00:12:675 INFO  BuildYourOwnComputerPage :93 - Select Software 'Acrobat Reader [+10.00]'
+2024-12-17 00:12:756 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:991 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:86 INFO  HomePage :87 - Click on 'COMPUTERS' tab
+2024-12-17 00:12:561 INFO  ComputerPage :38 - Click on 'Desktops' link
+2024-12-17 00:12:994 INFO  RegisterPage :54 - Click on product 'Build your own computer' : Build your own computer
+2024-12-17 00:12:578 INFO  BuildYourOwnComputerPage :57 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+15.00]'
+2024-12-17 00:12:706 INFO  BuildYourOwnComputerPage :64 - Select RAM '8GB [+60.00]'
+2024-12-17 00:12:776 INFO  BuildYourOwnComputerPage :71 - Select HDD '320 GB'
+2024-12-17 00:12:864 INFO  BuildYourOwnComputerPage :82 - Select HDD 'Ubuntu'
+2024-12-17 00:12:963 INFO  BuildYourOwnComputerPage :93 - Select Software 'Total Commander [+5.00]'
+2024-12-17 00:12:36 INFO  BuildYourOwnComputerPage :102 - Click on 'ADD TO CART' Button
+2024-12-17 00:12:297 INFO  BuildYourOwnComputerPage :108 - Get productAdded Message : The product has been added to your shopping cart
+2024-12-17 00:12:534 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:987 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:78 INFO  LoginPage :49 - Enter Password 'Sethi123' to password field : 
+2024-12-17 00:12:463 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:412 INFO  HomePage :42 - Click on loginLink : Log in
+2024-12-17 00:12:866 INFO  LoginPage :43 - Enter EmailId 'sethis@gmail.com' to email field : 
+2024-12-17 00:12:949 INFO  LoginPage :49 - Enter Password 'abc22123' to password field : 
+2024-12-17 00:12:291 INFO  LoginPage :56 - Click on loginButton
+2024-12-17 00:12:429 INFO  LoginPage :61 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-17 00:12:416 INFO  HomePage :57 - Click on registerLink : Register
+2024-12-17 00:12:837 INFO  RegisterPage :81 - Select 'Female' radio button
+2024-12-17 00:12:985 INFO  RegisterPage :90 - Enter Firstname : 'Shaveta' to firstName field
+2024-12-17 00:12:51 INFO  RegisterPage :95 - Enter Lastname : 'Sethi' to lastName field
+2024-12-17 00:12:133 INFO  RegisterPage :108 - Enter Email : 'sethi@gmail.com' to email field
+2024-12-17 00:12:203 INFO  RegisterPage :113 - Enter Password : 'Sethi123' to password field
+2024-12-17 00:12:263 INFO  RegisterPage :118 - Enter Confirm password : 'Sethi123' to confirm password field
+2024-12-17 00:12:710 INFO  RegisterPage :124 - Click on 'REGISTER' button
